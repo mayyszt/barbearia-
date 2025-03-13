@@ -1,6 +1,11 @@
 body{
     background: #cccccc ;
 }
+
+#banner{
+    width: 100%;
+}
+
 h1{
     text-align: center;
 }
@@ -9,7 +14,7 @@ p{
     text-align: center;
 }
 
-#pipopo {
+#missao {
     font-size: 20px; text-align: center;
 }
 
